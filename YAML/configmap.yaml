@@ -18,7 +18,7 @@ data:
             listen 80 ;
             listen [::]:80 ;
 
-            server_name reto3dmelguizor.online www.reto3dmelguizor.online;
+            server_name tu-dominio.com www.tu-dominio.com;
 
             location / {
                 proxy_pass http://wordpress-service;
