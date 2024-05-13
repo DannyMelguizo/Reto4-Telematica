@@ -100,3 +100,6 @@ spec:
 Cambiaremos el volumeHandle por el id de nuestro EFS
 
 Iniciamos cada uno de los yaml dentro de la carpeta yaml y listo.
+
+### **Referencias**
+* https://www.youtube.com/@ProfeSantosCloud/featured
